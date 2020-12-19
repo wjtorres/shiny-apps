@@ -5,4 +5,4 @@ There are over 500 astronauts that have traveled to space! Search the astronauts
 
 Shiny app url link: https://wjtorres.shinyapps.io/astronauts/
 
-Data source: [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), Week: 2020-07-14
+Data source: [#TidyTuesday](https://github.com/rfordatascience/tidytuesday), 2020-07-14
